@@ -1,0 +1,130 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Board /> rendering Should match snapshot when all cells are lit 1`] = `
+<DocumentFragment>
+  <table
+    class="Board"
+  >
+    <tbody>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+        <td
+          class="Cell Cell-lit"
+          role="button"
+        />
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
+
+exports[`<Board /> rendering Should match snapshot when all cells are not lit 1`] = `
+<DocumentFragment>
+  <h2>
+    You've won!
+  </h2>
+</DocumentFragment>
+`;
